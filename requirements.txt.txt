@@ -1,0 +1,7 @@
+streamlit==1.44.1
+bcrypt
+pandas
+numpy
+requests
+pyjwt
+pillow
